@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JakubZapadka
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react
+- 👀 I’m interested in EVERYTHING
+- 🌱 I’m currently learning python
